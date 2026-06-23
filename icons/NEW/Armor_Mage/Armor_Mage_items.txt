@@ -1,0 +1,145 @@
+MAGE ARMOR ITEMS
+Generated from NEW.zip / Armor_Mage
+Rule used: armor category, Common rarity, ATK stays 0.
+Stats are shaped by the Mage class identity and balanced by required level.
+Icon path format: "NEW/Armor_Mage/<item_file>"
+
+# ---------------------------------------------------------------------------
+# LVL 4 MAGE ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Apprentice Mana Hat
+
+Item look idea:
+Violet Wide-Brim Hat
+
+RPG fantasy mix:
+Astral Novice Witchcap
+
+{
+    "id": 2101,
+    "name": "Astral Novice Witchcap",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 4,
+    "required_rank": "FC",
+    "price": 400,
+    "atk": 0,
+    "defense": 12,
+    "hp": 25,
+    "mana": 38,
+    "qi": 14,
+    "class_affinity": ["Mage"],
+    "description": "Helping young mages focus mana, stay protected, and cast with steadier thought.",
+    "emoji": "🧙",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Mage/mage4.png",
+},
+
+# ---------------------------------------------------------------------------
+# LVL 8 MAGE ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Mage's Spellstep Boots
+
+Item look idea:
+Violet Star Boots
+
+RPG fantasy mix:
+Starlit Arcanist Treads
+
+{
+    "id": 2102,
+    "name": "Starlit Arcanist Treads",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 8,
+    "required_rank": "FC",
+    "price": 820,
+    "atk": 0,
+    "defense": 22,
+    "hp": 48,
+    "mana": 70,
+    "qi": 25,
+    "class_affinity": ["Mage"],
+    "description": "Carrying mages through battle with light steps, guarded focus, and bright mana.",
+    "emoji": "🥾",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Mage/mage8.png",
+},
+
+# ---------------------------------------------------------------------------
+# LVL 12 MAGE ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Mage's Arcane Mantle
+
+Item look idea:
+Purple Gold Half-Robe
+
+RPG fantasy mix:
+Runebound Twilight Mantle
+
+{
+    "id": 2103,
+    "name": "Runebound Twilight Mantle",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 12,
+    "required_rank": "FC",
+    "price": 1250,
+    "atk": 0,
+    "defense": 34,
+    "hp": 76,
+    "mana": 103,
+    "qi": 36,
+    "class_affinity": ["Mage"],
+    "description": "Protecting mages with woven sigils, deep mana flow, and calm spell control.",
+    "emoji": "🧥",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Mage/mage12.png",
+},
+
+# ---------------------------------------------------------------------------
+# LVL 15 MAGE ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Mage's High Adept Vestment
+
+Item look idea:
+Emerald Gold Sorcerer Garb
+
+RPG fantasy mix:
+Verdant Leyweaver Robe
+
+{
+    "id": 2104,
+    "name": "Verdant Leyweaver Robe",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 15,
+    "required_rank": "FC",
+    "price": 1650,
+    "atk": 0,
+    "defense": 45,
+    "hp": 98,
+    "mana": 132,
+    "qi": 46,
+    "class_affinity": ["Mage"],
+    "description": "Strengthening mages with refined mana channels, soft protection, and arcane patience.",
+    "emoji": "🥻",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Mage/mage15.png",
+},

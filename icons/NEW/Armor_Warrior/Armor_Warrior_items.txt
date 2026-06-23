@@ -1,0 +1,145 @@
+WARRIOR ARMOR ITEMS
+Generated from NEW.zip / Armor_Warrior
+Rule used: armor category, Common rarity, ATK stays 0.
+Stats are shaped by the Warrior class identity and balanced by required level.
+Icon path format: "NEW/Armor_Warrior/<item_file>"
+
+# ---------------------------------------------------------------------------
+# LVL 4 WARRIOR ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Warrior's March Boots
+
+Item look idea:
+Worn Battle Boots
+
+RPG fantasy mix:
+Ironroad Recruit Boots
+
+{
+    "id": 2121,
+    "name": "Ironroad Recruit Boots",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 4,
+    "required_rank": "FC",
+    "price": 400,
+    "atk": 0,
+    "defense": 20,
+    "hp": 45,
+    "mana": 0,
+    "qi": 8,
+    "class_affinity": ["Warrior"],
+    "description": "Helping warriors hold ground, endure blows, and keep marching forward.",
+    "emoji": "🥾",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Warrior/war4.png",
+},
+
+# ---------------------------------------------------------------------------
+# LVL 8 WARRIOR ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Warrior's Field Jerkin
+
+Item look idea:
+Brown Guard Tunic
+
+RPG fantasy mix:
+Oakhide Battle Jerkin
+
+{
+    "id": 2122,
+    "name": "Oakhide Battle Jerkin",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 8,
+    "required_rank": "FC",
+    "price": 820,
+    "atk": 0,
+    "defense": 32,
+    "hp": 74,
+    "mana": 1,
+    "qi": 14,
+    "class_affinity": ["Warrior"],
+    "description": "Protecting warriors with rugged leather, strong posture, and battle endurance.",
+    "emoji": "🥋",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Warrior/war8.png",
+},
+
+# ---------------------------------------------------------------------------
+# LVL 12 WARRIOR ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Warrior's Rivet Guard
+
+Item look idea:
+Brown Riveted Cuirass
+
+RPG fantasy mix:
+Boarhide War Cuirass
+
+{
+    "id": 2123,
+    "name": "Boarhide War Cuirass",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 12,
+    "required_rank": "FC",
+    "price": 1250,
+    "atk": 0,
+    "defense": 48,
+    "hp": 110,
+    "mana": 2,
+    "qi": 20,
+    "class_affinity": ["Warrior"],
+    "description": "Strengthening warriors with thick hide, reliable defense, and stubborn vitality.",
+    "emoji": "🥋",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Warrior/war12.png",
+},
+
+# ---------------------------------------------------------------------------
+# LVL 15 WARRIOR ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Warrior's Iron Plate
+
+Item look idea:
+Silver Battle Cuirass
+
+RPG fantasy mix:
+Stormforged Vanguard Plate
+
+{
+    "id": 2124,
+    "name": "Stormforged Vanguard Plate",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 15,
+    "required_rank": "FC",
+    "price": 1650,
+    "atk": 0,
+    "defense": 64,
+    "hp": 145,
+    "mana": 3,
+    "qi": 28,
+    "class_affinity": ["Warrior"],
+    "description": "Armoring warriors with heavy steel, high endurance, and frontline courage.",
+    "emoji": "🛡️",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Warrior/war15.png",
+},

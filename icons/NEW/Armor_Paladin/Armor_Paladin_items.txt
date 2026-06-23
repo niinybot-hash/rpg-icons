@@ -1,0 +1,145 @@
+PALADIN ARMOR ITEMS
+Generated from NEW.zip / Armor_Paladin
+Rule used: armor category, Common rarity, ATK stays 0.
+Stats are shaped by the Paladin class identity and balanced by required level.
+Icon path format: "NEW/Armor_Paladin/<item_file>"
+
+# ---------------------------------------------------------------------------
+# LVL 4 PALADIN ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Squire's Guard Helm
+
+Item look idea:
+Yellow Iron Helmet
+
+RPG fantasy mix:
+Dawnwatch Initiate Helm
+
+{
+    "id": 2113,
+    "name": "Dawnwatch Initiate Helm",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 4,
+    "required_rank": "FC",
+    "price": 400,
+    "atk": 0,
+    "defense": 19,
+    "hp": 42,
+    "mana": 8,
+    "qi": 3,
+    "class_affinity": ["Paladin"],
+    "description": "Helping paladins hold the line with faith, defense, and guarded courage.",
+    "emoji": "🪖",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Paladin/pal4.png",
+},
+
+# ---------------------------------------------------------------------------
+# LVL 8 PALADIN ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Paladin Iron Boots
+
+Item look idea:
+Spiked Leather Greaves
+
+RPG fantasy mix:
+Oathbound Stone Greaves
+
+{
+    "id": 2114,
+    "name": "Oathbound Stone Greaves",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 8,
+    "required_rank": "FC",
+    "price": 820,
+    "atk": 0,
+    "defense": 33,
+    "hp": 74,
+    "mana": 14,
+    "qi": 6,
+    "class_affinity": ["Paladin"],
+    "description": "Carrying paladins forward with firm footing, holy resolve, and heavy protection.",
+    "emoji": "🥾",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Paladin/pal8.png",
+},
+
+# ---------------------------------------------------------------------------
+# LVL 12 PALADIN ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Paladin Travel Cuirass
+
+Item look idea:
+Brown Blue Mantle Armor
+
+RPG fantasy mix:
+Vowguard Pilgrim Cuirass
+
+{
+    "id": 2115,
+    "name": "Vowguard Pilgrim Cuirass",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 12,
+    "required_rank": "FC",
+    "price": 1250,
+    "atk": 0,
+    "defense": 50,
+    "hp": 110,
+    "mana": 21,
+    "qi": 9,
+    "class_affinity": ["Paladin"],
+    "description": "Protecting paladins with travel-worn armor, loyal endurance, and blessed focus.",
+    "emoji": "🥋",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Paladin/pal12.png",
+},
+
+# ---------------------------------------------------------------------------
+# LVL 15 PALADIN ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Paladin Command Plate
+
+Item look idea:
+Grey Steel Breastplate
+
+RPG fantasy mix:
+Argent Oathkeeper Plate
+
+{
+    "id": 2116,
+    "name": "Argent Oathkeeper Plate",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 15,
+    "required_rank": "FC",
+    "price": 1650,
+    "atk": 0,
+    "defense": 66,
+    "hp": 145,
+    "mana": 28,
+    "qi": 12,
+    "class_affinity": ["Paladin"],
+    "description": "Strengthening paladins with sacred steel, high defense, and unbroken vows.",
+    "emoji": "🛡️",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Paladin/pal15.png",
+},

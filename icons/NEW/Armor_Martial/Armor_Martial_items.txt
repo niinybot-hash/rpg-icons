@@ -1,0 +1,145 @@
+MARTIAL ARTIST ARMOR ITEMS
+Generated from NEW.zip / Armor_Martial
+Rule used: armor category, Common rarity, ATK stays 0.
+Stats are shaped by the Martial Artist class identity and balanced by required level.
+Icon path format: "NEW/Armor_Martial/<item_file>"
+
+# ---------------------------------------------------------------------------
+# LVL 4 MARTIAL ARTIST ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Martial Student Cap
+
+Item look idea:
+Brown Training Headguard
+
+RPG fantasy mix:
+Dusthide Focus Cap
+
+{
+    "id": 2105,
+    "name": "Dusthide Focus Cap",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 4,
+    "required_rank": "FC",
+    "price": 400,
+    "atk": 0,
+    "defense": 13,
+    "hp": 32,
+    "mana": 4,
+    "qi": 32,
+    "class_affinity": ["Martial Artist"],
+    "description": "Helping martial artists protect their head, settle breath, and gather Qi.",
+    "emoji": "🎩",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Martial/mar4.png",
+},
+
+# ---------------------------------------------------------------------------
+# LVL 8 MARTIAL ARTIST ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Martial Training Tunic
+
+Item look idea:
+Pale Sleeveless Wrap
+
+RPG fantasy mix:
+Cloudstep Disciple Vest
+
+{
+    "id": 2106,
+    "name": "Cloudstep Disciple Vest",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 8,
+    "required_rank": "FC",
+    "price": 820,
+    "atk": 0,
+    "defense": 23,
+    "hp": 56,
+    "mana": 7,
+    "qi": 56,
+    "class_affinity": ["Martial Artist"],
+    "description": "Guiding martial artists through clean motion, light defense, and balanced Qi.",
+    "emoji": "🥋",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Martial/mar8.png",
+},
+
+# ---------------------------------------------------------------------------
+# LVL 12 MARTIAL ARTIST ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Martial Step Boots
+
+Item look idea:
+Teal Leather Boots
+
+RPG fantasy mix:
+Riverstep Qi Boots
+
+{
+    "id": 2107,
+    "name": "Riverstep Qi Boots",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 12,
+    "required_rank": "FC",
+    "price": 1250,
+    "atk": 0,
+    "defense": 35,
+    "hp": 84,
+    "mana": 10,
+    "qi": 82,
+    "class_affinity": ["Martial Artist"],
+    "description": "Teaching martial artists to plant their stance, move fast, and drive Qi through each step.",
+    "emoji": "🥾",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Martial/mar12.png",
+},
+
+# ---------------------------------------------------------------------------
+# LVL 15 MARTIAL ARTIST ARMOR
+# ---------------------------------------------------------------------------
+
+Name propositions
+
+Class idea:
+Martial Adept Vest
+
+Item look idea:
+Blue Pattern Training Jacket
+
+RPG fantasy mix:
+Tideflow Fist Vest
+
+{
+    "id": 2108,
+    "name": "Tideflow Fist Vest",
+    "category": "armor",
+    "rarity": "Common",
+    "required_level": 15,
+    "required_rank": "FC",
+    "price": 1650,
+    "atk": 0,
+    "defense": 46,
+    "hp": 110,
+    "mana": 13,
+    "qi": 106,
+    "class_affinity": ["Martial Artist"],
+    "description": "Protecting martial artists with flowing cloth, body discipline, and strong inner Qi.",
+    "emoji": "🥋",
+    "icon_url": "",
+    "icon_path": "NEW/Armor_Martial/mar15.png",
+},
